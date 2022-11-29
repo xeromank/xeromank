@@ -2,10 +2,11 @@
 
 ## 김영남
 
+- **안되는게 어딨니, 내가 못 할 뿐이지.  그것도 헤매다 보면 결국 다 될 거야.**
 - xeroman.k@gmail.com
 - 010 - 8709 - 4244
 - 서울시 구로구 개봉동 거주
-- **안되는게 어딨니, 내가 못 할 뿐이지.  그것도 헤매다 보면 결국 다 될 거야.**
+
 
 ## 동료의 시점
 
@@ -14,28 +15,43 @@
 - 타인에 대한 배려가 깊고, 이해심이 많습니다.
 - 긍정적인 성향을 갖고 있습니다.
 
-## 경험 기술
+## 역량
 
 - Back-End
-    - JAVA
-    - Spring Boot, Spring MVC, Spring Security, Spring Data JPA, Hibernate
-    - Maven, Gradle, Junit4/5, Spring Boot Test
+    - JAVA, Spring을 이용한 RESTful API 서버 개발
+    - JWT 기반의 인증 서비스 개발
+    - RabbitMQ, ActiveMQ를 활용한 데이터 처리 및 핸들링
+    - RabbitMQ를 활용한 Stomp 서비스 개발
+    - firebase 활용한 push 서비스 개발
+    - DDD, OOP, Clean Code 지향
+    - 경험
+        - JAVA
+        - Spring Boot, Spring MVC, Spring Security, Spring Data JPA, Hibernate
+        - Maven, Gradle, Junit4/5, Spring Boot Test
 - Front-End
-    - Javascript, Android(Java), Swift
-    - VueJS, React, JQuery, TypeScript
-    - Bootstrap, ElementPlus
-    - JSTL, Freemarker, Thymeleaf
-    - HTML, CSS, SCSS
+    - VueJS 기반의 SPA 설계/개발
+    - RefreshToken을 사용한 클라이언트 요청 핸들링
+    - 경험
+        - JavaScript
+        - VueJS, React, JQuery, TypeScript
+        - Bootstrap, ElementPlus
+        - JSTL, Freemarker, Thymeleaf
+        - HTML, CSS, SCSS
 - Tools
-    - IntelliJ, Eclipse(STS), VSCode
-    - Git, SVN
-    - JIRA, Slack, MS Teams, Asana, Bitbucket
-    - Oracle, MySQL, MSSQL, Sybase
-    - ElasticSearch, Redis, MongoDB
-    - NginX, Apache, Tomcat
-    - Jenkins, Nexus
-    - RabbitMQ, ActiveMQ
-    - Ubuntu, CentOS, Win Servers
+    - SQL, PL/SQL을 활용한 개발
+    - mysqldump를 활용한 백업 및 복제
+    - 데이터 베이스 모델 관리
+    - 경험
+        - IntelliJ, Eclipse(STS), VSCode
+        - Git, SVN
+        - JIRA, Slack, MS Teams, Asana, Bitbucket
+        - Oracle, MySQL, MSSQL, Sybase
+        - ERWin, Informetica
+        - ElasticSearch, Redis, MongoDB
+        - NginX, Apache, Tomcat
+        - Jenkins, Nexus
+        - RabbitMQ, ActiveMQ
+        - Ubuntu, CentOS, Win Servers
 
 ## 경력
 
