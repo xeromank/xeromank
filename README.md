@@ -18,19 +18,20 @@
 ## 역량
 
 - Back-End
-    - JAVA, Spring을 이용한 RESTful API 서버 개발
-    - JWT 기반의 인증 서비스 개발
-    - RabbitMQ, ActiveMQ를 활용한 데이터 처리 및 핸들링
-    - RabbitMQ를 활용한 Stomp 서비스 개발
-    - firebase 활용한 push 서비스 개발
-    - DDD, OOP, Clean Code 지향
+    - **JAVA, Spring을 이용한 RESTful API 서버 개발**
+    - **JWT 기반의 인증 서비스 개발**
+    - **RabbitMQ, ActiveMQ를 활용한 데이터 처리 및 핸들링**
+    - **RabbitMQ를 활용한 Stomp 서비스 개발**
+    - **firebase 활용한 push 서비스 개발**
+    - **DDD, OOP, Clean Code 지향**
     - 경험
         - JAVA
         - Spring Boot, Spring MVC, Spring Security, Spring Data JPA, Hibernate
         - Maven, Gradle, Junit4/5, Spring Boot Test
 - Front-End
-    - VueJS 기반의 SPA 설계/개발
-    - RefreshToken을 사용한 클라이언트 요청 핸들링
+    - **VueJS 기반의 SPA 설계/개발**
+    - **Transition을 활용한 애니메이션 처리**
+    - **RefreshToken을 사용한 클라이언트 요청 핸들링**
     - 경험
         - JavaScript
         - VueJS, React, JQuery, TypeScript
@@ -38,9 +39,9 @@
         - JSTL, Freemarker, Thymeleaf
         - HTML, CSS, SCSS
 - Tools
-    - SQL, PL/SQL을 활용한 개발
-    - mysqldump를 활용한 백업 및 복제
-    - 데이터 베이스 모델 관리
+    - **SQL, PL/SQL을 활용한 개발**
+    - **mysqldump를 활용한 백업 및 복제**
+    - **데이터 베이스 모델 관리**
     - 경험
         - IntelliJ, Eclipse(STS), VSCode
         - Git, SVN
