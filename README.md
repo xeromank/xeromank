@@ -1,19 +1,32 @@
 # Xeroman K Profile
 
+## 일에 임하는 자세
+진행이 더딜 때는 '안되는게 어딨어, 내가 못 할뿐이지, 하다보면 답이 나올거야.',  
+코드를 작성할 때는 '다음에 내가 이 코드를 봤을때 쉽게 이해 할 수 있을까?'  
+많은 개발자들이 흔히 하는 생각이겠지만,  
+지난번의 나보다 나아지기 위한 마법의 주문이라고 생각합니다.
+
 ## 김영남
 
-- **안되는게 어딨니, 내가 못 할 뿐이지.  그것도 헤매다 보면 결국 다 될 거야.**
 - xeroman.k@gmail.com
 - 010 - 8709 - 4244
 - 서울시 구로구 개봉동 거주
 
 
-## 동료의 시점
+## 김영남은?
 
-- 일과 배움에 있어 늘 수평적으로 생각하며, 일을 즐깁니다.
+- 10년 이상 일한 JAVA 개발자 입니다.(JAVA만 한건 아니지만, 가장 비중이 큽니다.)
+- SPRING 기반의 서버 어플리케이션 개발에 익숙 합니다.
+- Front-End 개발에 대한 지식과 경험도 보유 하고 있습니다.
+- Linux 기반의 서버에서 환경 작업 또한 제법 경험해 보았습니다.
+- 덕분에 전체적인 구조에 대한 이해가 뛰어납니다.
+- **요구사항에 대한 이해가 빠르며, 서비스로 잘 녹여 냅니다.**(이해만 잘 하면, 데이터 모델도 금방금방 떠오르는?)
+- 개발하는것을 매우 즐깁니다.
+- 배움에는 위, 아래가 없다고 생각합니다.
+- 개발 결과물에 대해 지적 받는걸 좋아합니다.(성장의 원동력)
 - 다양한 스택에 거부감이 낮으며, 적극적인 시도를 합니다.
-- 타인에 대한 배려가 깊고, 이해심이 많습니다.
-- 긍정적인 성향을 갖고 있습니다.
+- 동료에 대해 인정하고, 납득합니다.
+- 매사에 긍정적인 성향을 갖고 있습니다.(낙천적이지는 않습니다.)
 
 ## 역량
 
@@ -24,35 +37,39 @@
     - **RabbitMQ를 활용한 Stomp 서비스 개발**
     - **firebase 활용한 push 서비스 개발**
     - **DDD, OOP, Clean Code 지향**
-    - 경험
-        - JAVA
-        - Spring Boot, Spring MVC, Spring Security, Spring Data JPA, Hibernate
-        - Maven, Gradle, Junit4/5, Spring Boot Test
+
 - Front-End
     - **VueJS 기반의 SPA 설계/개발**
     - **Transition을 활용한 애니메이션 처리**
     - **RefreshToken을 사용한 클라이언트 요청 핸들링**
-    - 경험
-        - JavaScript
-        - VueJS, React, JQuery, TypeScript
-        - Bootstrap, ElementPlus
-        - JSTL, Freemarker, Thymeleaf
-        - HTML, CSS, SCSS
-- Tools
+
+- ETC
     - **SQL, PL/SQL을 활용한 개발**
     - **mysqldump를 활용한 백업 및 복제**
     - **데이터 베이스 모델 관리**
-    - 경험
-        - IntelliJ, Eclipse(STS), VSCode
-        - Git, SVN
-        - JIRA, Slack, MS Teams, Asana, Bitbucket
-        - Oracle, MySQL, MSSQL, Sybase
-        - ERWin, Informetica
-        - ElasticSearch, Redis, MongoDB
-        - NginX, Apache, Tomcat
-        - Jenkins, Nexus
-        - RabbitMQ, ActiveMQ
-        - Ubuntu, CentOS, Win Servers
+
+## 스킬
+- Back-End
+    - JAVA
+    - Spring Boot, Spring MVC, Spring Security, Spring Data JPA, Hibernate
+    - Maven, Gradle, Junit4/5, Spring Boot Test
+- Front-End
+    - JavaScript
+    - VueJS, React, JQuery, TypeScript
+    - Bootstrap, ElementPlus
+    - JSTL, Freemarker, Thymeleaf
+    - HTML, CSS, SCSS
+- Tools
+    - IntelliJ, Eclipse(STS), VSCode
+    - Git, SVN
+    - JIRA, Slack, MS Teams, Asana, Bitbucket
+    - Oracle, MySQL, MSSQL, Sybase
+    - ERWin, Informetica
+    - ElasticSearch, Redis, MongoDB
+    - NginX, Apache, Tomcat
+    - Jenkins, Nexus
+    - RabbitMQ, ActiveMQ
+    - Ubuntu, CentOS, Win Servers
 
 ## 경력
 
