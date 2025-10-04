@@ -1,10 +1,9 @@
 # Xeroman K Profile
 
-Spring
+코틀린 섬에서 자바 커피를 마시며, 
 
-Java, Kotlin
+스프링 달린 농기구를 사용하여,
 
-MySql, Oracle, Redis, Mongodb
+고랭지 농업을 운영하는데, 
 
-RabbitMQ, ActiveMQ, Apache Kafka
-
+비단밤 한 마리가 설치더라
